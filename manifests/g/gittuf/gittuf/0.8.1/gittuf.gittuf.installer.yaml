@@ -1,0 +1,11 @@
+PackageIdentifier: gittuf.gittuf
+PackageVersion: 0.8.1
+InstallerType: portable
+Commands:
+  - gittuf
+Installers:
+ - Architecture: x64
+   InstallerUrl: https://github.com/gittuf/gittuf/releases/download/v0.8.1/gittuf_0.8.1_windows_amd64.exe
+   InstallerSha256: 5077887ca1a670878f42936ad1275c9ab493c9ab4a9805c754240607dc04631c
+ManifestType: installer
+ManifestVersion: 1.6.0
